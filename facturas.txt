@@ -1,0 +1,1 @@
+{"facturaFormato": [{"clientName": "clientName", "FactureNumber": "FactureNumber"}], "1032": [{"clientName": "El Juan", "FactureNumber": "111", "Products": [{"123": [{"quantity": "10", "valorUnitario": "12000", "valorTotal": "120000", "valorIVA": "6000.0"}]}, {"123": [{"quantity": "5", "valorUnitario": "12000", "valorTotal": "60000", "valorIVA": "3000.0"}]}]}]}

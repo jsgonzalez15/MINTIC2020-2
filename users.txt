@@ -1,0 +1,1 @@
+{"Sebastian": [{"role": "admin", "password": "12344321"}], "Juan": [{"role": "facturador", "password": "98766789"}]}
